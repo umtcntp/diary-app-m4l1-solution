@@ -5,7 +5,7 @@
 Projenizi doğru bir şekilde kurmak ve veritabanını oluşturmak için aşağıdaki adımları takip edin:
 
 ```bash
-# Python ortamına geçin
+# Python ortamına geçmek için terminale yazmanz gereken komut:
 python
 
 # Ana dosyadan gerekli modülleri içe aktarın
